@@ -1,0 +1,4 @@
+﻿  visual.cpp
+C:\Users\hersh\source\repos\SnL\visual.cpp(12,15): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\hersh\source\repos\SnL\visual.cpp(12,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  SnL.vcxproj -> C:\Users\hersh\source\repos\SnL\Debug\SnL.exe
